@@ -24,7 +24,7 @@ public class not_ortalamasi_alma {
         if (ort>=60){
             System.out.println("Bütünlemeyle geçtiniz");
         }else{
-            System.out.println("Bütünlemeyle kaldiniz");
+            System.out.println("kaldiniz");
         }
     }
 }
