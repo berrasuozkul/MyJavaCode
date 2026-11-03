@@ -1,3 +1,5 @@
+package degiskenler;
+
 import java.util.Scanner;
 
 public class not_ortalamasi_alma {
